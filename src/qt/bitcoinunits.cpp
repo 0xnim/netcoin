@@ -34,7 +34,7 @@ bool BitcoinUnits::valid(int unit)
     default:
         return false;
     }
-}
+} 
 
 QString BitcoinUnits::name(int unit)
 {
